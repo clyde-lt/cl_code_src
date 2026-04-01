@@ -9,20 +9,7 @@
 
 ---
 
-## 🌟 强力推荐：DataEyesAI - 你的全能 AI 助手
 
-> **想要像 Claude Code 一样高效，却苦于没有稳定的 API 接入？**
-
-**[DataEyesAI](https://dataeyes.ai/?promoter_code=4qx9suz3)** 是为你量身打造的一站式 AI 聚合平台！
-
-- ⚡ **聚合全球顶尖模型**：一键接入 GPT-5、Claude 4.6、Gemini 3.1 等主流大模型。
-- 💰 **极致性价比**：官方原厂满血版 API，价格却极具竞争力，让你用最少的成本享受最强的 AI 能力。
-- 🛡️ **稳定可靠**：专业运维 7x24 小时守护，企业级 SLA 保障，告别连接断断续续的烦恼。
-- 🛠️ **开发者友好**：标准 API 接口，完美适配各类开源项目、CLI 工具及开发流程。
-
-👉 **[立即注册体验，开启你的 AI 生产力起飞之旅！](https://dataeyes.ai/?promoter_code=4qx9suz3)**
-
-👉 请点击：[https://dataeyes.ai/?promoter_code=4qx9suz3](https://dataeyes.ai/?promoter_code=4qx9suz3)
 
 ---
 
@@ -35,16 +22,7 @@
 
 背景：2026.03.31 claude code 上 npm 上传了包含 claude code 源码的 `cli.js.map` 文件
 
-由于 2.1.88 版本已从[官方 npm](https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.88?activeTab=code) 下架，直接使用 `npm install @anthropic-ai/claude-code@2.1.88` 会报错，你可以通过腾讯缓存镜像进行安装：
-
-```shell
-npm install -g https://mirrors.cloud.tencent.com/npm/@anthropic-ai/claude-code/-/claude-code-2.1.88.tgz
-```
-
-<img width="626" height="370" alt="图片" src="https://github.com/user-attachments/assets/bcc1d094-f19d-4bd7-b53b-898399c6d117" />
-
-
-> 手慢无，不知道腾讯云的镜像缓存什么时候也没了
+由于 2.1.88 版本已从[官方 npm](https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.88?activeTab=code) 下架， 手慢无，
 
 ---
 
@@ -98,6 +76,4 @@ npm install -g https://mirrors.cloud.tencent.com/npm/@anthropic-ai/claude-code/-
 
 ---
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ponponon/claude_code_src&type=Date)](https://star-history.com/#ponponon/claude_code_src&Date)
