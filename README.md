@@ -14,15 +14,15 @@
 ---
 
 > [!IMPORTANT]
-> **这是一个针对 `@anthropic-ai/claude-code` 2.1.88 版本的源码整理与重建项目。**
-> 该版本发布到 npm 时附带了可还原源码的 source map。本项目基于 `sources` 和 `sourcesContent` 将其还原为可读的源码目录，旨在研究 Claude Code 的 CLI 架构、命令系统及 MCP 实现。
+> **这是一个针对 2.1.88 版本的源码整理与重建项目。**
+> 该版本发布到 npm 时附带了可还原源码的 source map。本项目基于 `sources` 和 `sourcesContent` 将其还原为可读的源码目录，旨在研究 Cl Code 的 CLI 架构、命令系统及 MCP 实现。
 
 
 ## 🚀 快速安装 (镜像源)
 
 背景：2026.03.31 claude code 上 npm 上传了包含 claude code 源码的 `cli.js.map` 文件
 
-由于 2.1.88 版本已从[官方 npm](https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.88?activeTab=code) 下架， 手慢无，
+由于 2.1.88 版本已从[官方 npm]下架， 手慢无，
 
 ---
 
